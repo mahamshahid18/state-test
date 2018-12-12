@@ -1,5 +1,7 @@
 # Stm
 
+This is a sample project created to understand the working of angular state management, using ngrx/store
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
 ## Development server
